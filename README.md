@@ -1,9 +1,13 @@
-# **Peter Amir**  
-**Junior Angular Developer**  
+<h2>
+  <span style="font-weight:700;">Peter Amir</span>
+  <span style="font-weight:300; margin-left: 10px; font-size: 18px; color: #666;">
+    - Junior Angular Developer
+  </span>
+</h2>
+
 📍 BLD 79, Masakn El Gawhara, FLR 3, APT 203, El Zohoor, Port Said, Egypt  
 📞 +20 120 411 2463  
 📧 [peteramir5522@outlook.com](mailto:peteramir5522@outlook.com)  
-💼 GitHub / Portfolio: _[Add link if available]_  
 
 ---
 
